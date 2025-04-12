@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile! 👋  
-### **I'm from &#127481; &#127473; Timor-Leste**  
+### **I'm from Timor-Leste**  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HauLenuk670&label=Profile%20Views&color=0e75b6&style=flat" alt="HauLenuk670" />
